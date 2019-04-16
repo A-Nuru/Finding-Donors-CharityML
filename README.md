@@ -14,6 +14,10 @@ This project requires **Python 3.x** and the following Python libraries installe
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+### Description
+* Employed supervise learning techniques on income census data collected  in California, US to  identify people more inclined to donate to  CharityML - a charity organisation. 
+* Applied pre-processing and transformation techniques to manipulate the data to a workable format, evaluated several supervised learning methods and chose the best
+* Optimized the chosen technique
 
 ### Code
 
