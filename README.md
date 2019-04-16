@@ -15,9 +15,9 @@ You will also need to have software installed to run and execute an [iPython Not
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 ### Description
-* Employed supervise learning techniques on income census data collected  in California, US to  identify people more inclined to donate to  CharityML - a charity organisation. 
-* Applied pre-processing and transformation techniques to manipulate the data to a workable format, evaluated several supervised learning methods and chose the best
-* Optimized the chosen technique
+* Employed supervised learning techniques on income census data collected  in California, US to  identify people more inclined to donate to  CharityML - a charity organisation. 
+* Applied pre-processing and transformation techniques to manipulate the data to a workable format, evaluated several supervised learning methods, chose the best and optimized it.
+* A model that could predict individual's income whether above or below $50,000 based on some available features was produced.  This allowed non-profit organizations to determine how much donation to request or not from indviduals.
 
 ### Code
 
